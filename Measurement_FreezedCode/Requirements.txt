@@ -1,0 +1,5 @@
+opencv-python==3.4.11.45
+opencv-contrib-python==3.4.11.45
+PyQt5==5.15.4
+qt5-tools==5.15.2.2.2
+qt5-applications==5.15.2.2.2
